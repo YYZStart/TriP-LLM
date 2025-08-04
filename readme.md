@@ -67,9 +67,16 @@ If you would like to use other datasets, please refer to **preprocessing.py** fo
 
 ## 📈 Results
 
-Our method achieves state-of-the-art results across all datasets using the **PATE** evaluation metric. Please refer to the paper for full quantitative comparisons.
+Our method achieves state-of-the-art results across all datasets using the **PATE** evaluation metric.
+
+<p align="center">
+  <img src="assets/Table2.png" alt="TriP-LLM Results Table" width="1000">
+</p>
+
+Please refer to the paper for full quantitative comparisons and detailed experimental setup.
 
 ---
+
 
 
 ## 🧩 Plug TriP-LLM into Your Own Framework
