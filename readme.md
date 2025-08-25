@@ -42,7 +42,10 @@ You can reproduce our main experiments with:
 python main.py
 ```
 
-The checkpoint of the proposed TriP-LLM is provided in [here](https://drive.google.com/drive/folders/13A3RyXQxYGNKcSvSUlulJdNDZlqkH3RB?usp=sharing)
+## Checkpoints
+
+You can download the released checkpoints from our Hugging Face repository:  
+👉 [TriP-LLM on Hugging Face](https://huggingface.co/YYZStart/TriP-LLM)
 
 Please place the checkpoints into the `Checkpoints/TriP_LLM/` directory.
 
