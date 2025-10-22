@@ -105,11 +105,9 @@ If you find this repository useful for your research, please cite our paper:
 @misc{TriPLLM,
       title={TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection}, 
       author={Yuan-Cheng Yu and Yen-Chieh Ouyang and Chun-An Lin},
+      journal={IEEE Access},
       year={2025},
-      eprint={2508.00047},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2508.00047}, 
+      pages={168643-168653}
 }
 ```
 
